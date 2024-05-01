@@ -1,2 +1,2 @@
-# Multiple-linear-Regression
-Multiple linear Regression
+# Naive Bayes And Text Mining 
+Naive Bayes And Text Mining 
